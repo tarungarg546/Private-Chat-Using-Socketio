@@ -8,7 +8,7 @@ if there exist no username will show you an error.
 The user to whom you messaged privately will see a message in green color.
 
 ```
-#!python
+#!javascript
 
 
 To run this Clone it into your local machine.
